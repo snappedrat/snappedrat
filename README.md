@@ -10,19 +10,17 @@
 
 - 🔭 I’m currently working on **a Digital Human Resource Management project**
 
-- 🌱 I’m currently learning **Angular, React , Python, PowerBI**
+- 🌱 I’m currently working with trend setting frameworks such as **Angular, Django , NodeJS**
 
-- 👨‍💻 All of my projects are available at my repo's [https://github.com/aameerk](https://github.com/aameerk)
+- 👨‍💻 All of my projects are available at my repo's [https://github.com/snappedrat](https://github.com/snappedrat)
 
-- 📫 How to reach me **aameerk917@gmail.com**
+- 📫 How to reach me **ahamed.rmd3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aameer khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aameer khan" height="30" width="40" /></a>
-<a href="https://kaggle.com/aameer khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aameer khan" height="30" width="40" /></a>
-<a href="https://instagram.com/aameer.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aameer.___" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aameerk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aameerk" height="30" width="40" /></a>
-<a href="https://discord.gg/aameerk#0788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aameerk#0788" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahamed-n-696693246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahamed" height="30" width="40" /></a>
+<a href="https://kaggle.com/ahamedn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Ahamed" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/201501004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ahamed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
