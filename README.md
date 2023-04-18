@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently working with trend setting frameworks such as **Angular, Django , NodeJS**
 
-- 👨‍💻 All of my projects are available at my repo's [https://github.com/snappedrat](https://github.com/snappedrat)
+- 👨‍💻 All of my projects are available at my repo's [https://github.com/snappedrat?tab=repositories](https://github.com/snappedrat?tab=repositories)
 
 - 📫 How to reach me **ahamed.rmd3@gmail.com**
 
