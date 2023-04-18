@@ -1,6 +1,6 @@
 <img align="right" alt="Coder GIF" height=300 width=1500 src ="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f633633336332z30656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif">
-<h1 align="center">Hi 👋, I'm Aameer Khan 🧑🏻‍💻</h1>
-<h3 align="center">A passionate frontend developer and ML enthusiast from India</h3>
+<h1 align="center">Hey there! 👋, I'm Ahamed 🧑🏻‍💻</h1>
+<h3 align="center">I'm a full-stack developer with a passion for crafting beautiful and functional web applications. With my expertise and love for machine learning, I'm dedicated to bringing cutting-edge solutions to the table for my clients.</h3>
 
 
   <img align="right" alt="Coder GIF" height=300 width=310 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
